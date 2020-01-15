@@ -39,6 +39,10 @@ Visual Studio Code - Extensions:
 
     https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
 
+Express mas avanzado:
+
+    https://github.com/pepeul1191/webpack-aprendiendo3
+
 ### Migraciones
 
 Migraciones con DBMATE - accesos:
